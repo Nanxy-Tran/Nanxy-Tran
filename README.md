@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on hmm, I don't know, just want to code as a hob·by·ist, enjoy my own space. 
 - 📫 Try to reach me at eeit@gmail.com
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/nanxy-tran/nanxy-tran) [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev/years/nanxy-tran)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/visits/nanxy-tran/nanxy-tran) [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev/years/nanxy-tran)
 
 
 <!---
