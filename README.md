@@ -7,8 +7,6 @@
 - 💞️ I’m looking to collaborate on hmm, I don't know, just want to code as a hob·by·ist, enjoy my own space. 
 - 📫 Try to reach me at eeit@gmail.com
 
-[![Visits Badge](https://badges.pufler.dev/visits/nanxy-tran/nanxy-tran)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/nanxy-tran)](https://badges.pufler.dev)
-
 
 <!---
 Nanxy-Tran/Nanxy-Tran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
