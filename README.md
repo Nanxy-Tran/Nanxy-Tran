@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanxy-tran&count_private=true&show_icons=true&theme=blueberry&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-
 **Hi, there**
 - 👋 I’m Thinh
 - 👀 I’m interested in ReactJS, ReactNative, NextJS and Prisma.
