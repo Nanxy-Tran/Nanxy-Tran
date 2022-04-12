@@ -1,8 +1,7 @@
 **Hi, there**
 - 👋 I’m Thinh
-- 👀 I’m interested in ReactJS, ReactNative, NextJS and Prisma.
-- 🌱 I’m currently learning PostgreSQL
-- 💞️ I’m looking to collaborate on hmm, I don't know, just want to code as a hob·by·ist, enjoy my own space. 
+- 👀 I’m interested in ReactJS, ReactNative, Golang with Gin <3.
+- 🌱 I’m currently learning Goalng, Gin, SQL 
 - 📫 Try to reach me at eeit104@gmail.com
 
 
