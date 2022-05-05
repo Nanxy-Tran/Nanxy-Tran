@@ -2,7 +2,7 @@
 - 👋 I’m Thinh
 - 👀 I’m interested in ReactJS, ReactNative, Golang with Gin <3.
 - 🌱 I’m currently learning Goalng, Gin, SQL 
-- 📫 Try to reach me at eeit104@gmail.com
+- 📫 Reach me at eeit104@gmail.com
 
 
 <!---
