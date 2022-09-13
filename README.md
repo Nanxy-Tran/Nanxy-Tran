@@ -25,8 +25,9 @@
 I just make it for my daily tasks easier 😉 
 | Project      | Description        | Github             |
 | :---        |    :---   |          :---: |
-| env_guardian      |  Find some missing env variables across the entire project in different environments. I believe that someone may forget to define the env variables in .env or somewhere else it should be.    | [env_guardian](https://github.com/Nanxy-Tran/env_guardian)  |
+| Env guardian |  Find some missing env variables across the entire project in different environments. I believe that someone may forget to define the env variables in .env or somewhere else it should be.    | [env_guardian](https://github.com/Nanxy-Tran/env_guardian)  |
 | biller   | Way to learn the Golang with Gin gonic, and a good tool to track my spent 🤑        | [biller](https://github.com/Nanxy-Tran/biller)     |
+| Git owner generator | Generate Github owner output, ready to use, just copy pasta and boom, no need to manually request review from code owner! | [contributor_scan](https://github.com/Nanxy-Tran/contributor_scan) 
 
 ## 🔎 Find me at: 
 <div align="right">
